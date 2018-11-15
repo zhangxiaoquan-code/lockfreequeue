@@ -1,4 +1,4 @@
-#include "stm_lfq.h"
+#include "lock_free_queue.h"
 #include <pthread.h>
 #include <sys/time.h>
 
